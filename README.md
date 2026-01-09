@@ -1,7 +1,7 @@
 # UAS - Muhammad Lutfi Iqbar Rafi
 
 Repository ini dibuat untuk memenuhi **Ujian Akhir Semester (UAS)**  
-Mata Kuliah: *(sesuaikan dengan mata kuliah)*  
+Mata Kuliah: *(pengenalan pemograman)*  
 
 ---
 
